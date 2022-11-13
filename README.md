@@ -33,7 +33,7 @@ I am a Developer, here are some info about me <br/>
     <img width="30px" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" />
     <img width="30px" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" />
     <img width="30px" src="https://user-images.githubusercontent.com/25181517/187896150-cc1dcb12-d490-445c-8e4d-1275cd2388d6.png" />
-  </kbd>
+  </kbd><br/><br/>
   <kbd>
     <kbd>Back-end</kbd>
     <br>
