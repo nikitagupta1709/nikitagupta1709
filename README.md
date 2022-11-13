@@ -5,11 +5,11 @@
 <a href="URL_REDIRECT" target="blank"><img align="center" width="400px" margin-bottom="20px" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" /></a>
 <br/>
 <br/>
-I am a Developer, here are some info about me
-- 👀 I’m interested in Developement. I know JavaScript, HTML, CSS, React JS, Redux, Node JS, Express, Mongo DB, Cyber Security, Networking, Android App Development, SQL
-- 🤔 My interest lies in Web Development.
-- 💬 Ask me about anything from [nikitagupta1709@gmail.com](mailto:nikitagupta1709@gmail.com), I love to answer!
-- 🌐 You can see my personal website through [here]()
+I am a Developer, here are some info about me <br/>
+- 👀 I’m interested in Developement. I know JavaScript, HTML, CSS, React JS, Redux, Node JS, Express, Mongo DB, Cyber Security, Networking, Android App Development, SQL<br/>
+- 🤔 My interest lies in Web Development. <br/>
+- 💬 Ask me about anything from [nikitagupta1709@gmail.com](mailto:nikitagupta1709@gmail.com), I love to answer!<br/>
+- 🌐 You can see my personal website through [here]()<br/>
 
 #### 📫 How to reach me
 - Email: [`Click To Mail!`](mailto:nikitagupta1709@gmail.com) or copy **`nikitagupta1709@gmail.com`**
@@ -52,19 +52,18 @@ I am a Developer, here are some info about me
     <br>
     <br>
     <img width="30px" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" />
-    <img width="30px" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" />
   </kbd>
 </p>
 
 <h2 ><u>My Github Stats</u></h2>
 <p >
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikitagupta1709&layout=compact&theme=github_dark&langs_count=10&exclude_repo=kasweb">
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikitagupta1709&layout=compact&theme=radical&langs_count=10&exclude_repo=kasweb">
 <br>
 <br>
-<img src="https://github-readme-stats.vercel.app/api?username=nikitagupta1709&count_private=true&show_icons=trueline_height=21&theme=github_dark">	
+<img src="https://github-readme-stats.vercel.app/api?username=nikitagupta1709&count_private=true&show_icons=trueline_height=21&theme=radical">	
 <br>
 <br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nikitagupta1709&theme=holi-theme">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nikitagupta1709&theme=radical">
 </p>
 <hr>
 <p align="center">
