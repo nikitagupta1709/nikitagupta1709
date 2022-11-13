@@ -1,7 +1,9 @@
 <div>
 <h2> Hello There <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30">, I'm Nikita Gupta, Welcome to my Github profile!</h2>
 </div>
-
+<br/>
+<a href="URL_REDIRECT" target="blank"><img align="center" width="400px" margin="auto" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" /></a>
+<br/>
 I am a Develoepr, here some info about me
 - 👀 I’m interested in Developement. I know JavaScript, HTML, CSS, React JS, Redux, Node JS, Express, Mongo DB, Cyber Security, Networking, Android App Development, SQL
 - 🤔 My interest lies in Web Development.
@@ -43,7 +45,6 @@ I am a Develoepr, here some info about me
     <br>
     <br>
     <img width="30px" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" />
-    <img width="30px" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" />
   </kbd>
   <kbd>
     <kbd>Tools</kbd>
@@ -66,9 +67,9 @@ I am a Develoepr, here some info about me
 </p>
 <hr>
 <p align="center">
-   <i>A problem can be solved in a 100 different ways and There's always an easier way to solve a problem.</i>
+   <i>Perfection is achieved not when there is nothing more to add, but rather when there is nothing more to take away.</i>
    <br>
-   <i>You miss 100% of the shots you don't take.</i>
+   <i>Simplicity is the soul of efficiency.</i>
    <br>
 <br>	
 <a target="_blank" href="[https://www.linkedin.com/in/tarun-tailor-7bb4b5157/](https://www.linkedin.com/in/nikita-g-6594391b3/)"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
