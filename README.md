@@ -2,7 +2,7 @@
 <h2> Hello There <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30">, <br/> I'm Nikita Gupta, Welcome to my Github profile!</h2>
 </div>
 <br/>
-<a href="URL_REDIRECT" target="blank"><img align="center" width="400px" margin-bottom="20px" src="https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif" /></a>
+<img align="center" width="500px" margin-bottom="20px" src="https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif" />
 <br/>
 <br/>
 I am a Developer, here are some info about me <br/>
