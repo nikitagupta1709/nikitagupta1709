@@ -2,9 +2,10 @@
 <h2> Hello There <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30">, I'm Nikita Gupta, Welcome to my Github profile!</h2>
 </div>
 <br/>
-<a href="URL_REDIRECT" target="blank"><img align="center" width="400px" margin="auto" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" /></a>
+<a href="URL_REDIRECT" target="blank"><img align="center" width="400px" margin-bottom="20px" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" /></a>
 <br/>
-I am a Develoepr, here some info about me
+<br/>
+I am a Developer, here are some info about me
 - 👀 I’m interested in Developement. I know JavaScript, HTML, CSS, React JS, Redux, Node JS, Express, Mongo DB, Cyber Security, Networking, Android App Development, SQL
 - 🤔 My interest lies in Web Development.
 - 💬 Ask me about anything from [nikitagupta1709@gmail.com](mailto:nikitagupta1709@gmail.com), I love to answer!
