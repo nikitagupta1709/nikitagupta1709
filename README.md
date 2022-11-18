@@ -6,7 +6,7 @@
 <br/>
 <br/>
 I am a Developer, here are some info about me <br/>
-- 👀 I’m interested in Developement. I know JavaScript, HTML, CSS, React JS, Redux, Node JS, Express, Mongo DB, Cyber Security, Networking, Android App Development, SQL<br/>
+- 👀 I’m interested in Developement. I know JavaScript, HTML, CSS, React JS, Redux, Node JS, Express, Mongo DB, Cyber Security, CLoud Computing, Networking, Android App Development, SQL<br/>
 - 🤔 My interest lies in Web Development. <br/>
 - 💬 Ask me about anything from [nikitagupta1709@gmail.com](mailto:nikitagupta1709@gmail.com), I love to answer!<br/>
 - 🌐 You can see my personal website through [here](https://nikitagupta.netlify.app/)<br/>
