@@ -65,6 +65,7 @@ I am a Developer, here are some info about me <br/>
 <br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikitagupta1709&theme=radical">
 </p>
+<a href="https://github.com/nikitagupta1709"><img alt="nikitagupta1709's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=nikitagupta1709&custom_title=nikitagupta1709's%20Contribution%20Graph&theme=react-dark" /></a>
 <hr>
 <p align="center">
    <i>Perfection is achieved not when there is nothing more to add, but rather when there is nothing more to take away.</i>
