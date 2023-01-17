@@ -56,12 +56,7 @@ I am a Developer, here are some info about me <br/>
 
 <h2 ><u>My Github Stats</u></h2>
 <p >
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikitagupta1709&layout=compact&theme=radical&langs_count=10&exclude_repo=kasweb">
-<br>
-<br>
-<img src="https://github-readme-stats.vercel.app/api?username=nikitagupta1709&count_private=true&show_icons=trueline_height=21&theme=radical">	
-<br>
-<br>
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikitagupta1709&theme=radical">
 </p>
 
