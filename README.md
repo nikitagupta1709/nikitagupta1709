@@ -2,11 +2,11 @@
 <h2> Hello There <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30">, <br/> I'm Nikita Gupta, Welcome to my Github profile!</h2>
 </div>
 <br/>
-<img align="center" width="500px" margin-bottom="20px" src="https://camo.githubusercontent.com/5d2d6ac2421cea9d2f855c367d78261e6898fbe3c77ee42c6acb4a938e1c1525/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f66732f62656238346636333631363531372e356162386535383036623163322e676966" />
+<!-- <img align="center" width="500px" margin-bottom="20px" src="https://camo.githubusercontent.com/5d2d6ac2421cea9d2f855c367d78261e6898fbe3c77ee42c6acb4a938e1c1525/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f66732f62656238346636333631363531372e356162386535383036623163322e676966" /> -->
 <br/>
 <br/>
-I am a Developer, here are some info about me <br/>
-- 👀 I’m interested in Developement. I know JavaScript, HTML, CSS, React JS, Redux, Node JS, Express, Mongo DB, Cyber Security, Cloud Computing, Networking, Android App Development, SQL<br/>
+Full-stack developer with 2+ years of experience, here are some info about me <br/>
+- 👀 I’m interested in Developement. I know JavaScript, HTML, CSS, React JS, Redux, Node JS, Express, Mongo DB, Cyber Security, Cloud Computing, Networking, Android App Development, SQ, Generative AI <br/>
 - 🤔 My interest lies in Web Development. <br/>
 - 🌐 You can see my personal website through https://nikitagupta.netlify.app/ <br/>
 
@@ -67,7 +67,7 @@ I am a Developer, here are some info about me <br/>
    <i>Simplicity is the soul of efficiency.</i>
    <br>
 <br>	
-<a target="_blank" href="[https://www.linkedin.com/in/tarun-tailor-7bb4b5157/](https://www.linkedin.com/in/nikita-g-6594391b3/)"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+<a target="_blank" href="(https://www.linkedin.com/in/nikita-g-6594391b3/](https://www.linkedin.com/in/nikita-g-6594391b3/)"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 <a target="_blank" href="mailto:nikitagupta1709@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 <br>
 </p>
