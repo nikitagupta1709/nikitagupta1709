@@ -67,7 +67,7 @@ Full-stack developer with 2+ years of experience, here are some info about me <b
    <i>Simplicity is the soul of efficiency.</i>
    <br>
 <br>	
-<a target="_blank" href="(https://www.linkedin.com/in/nikita-g-6594391b3/](https://www.linkedin.com/in/nikita-g-6594391b3/)"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+<a target="_blank" href="https://www.linkedin.com/in/nikita-g-6594391b3/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 <a target="_blank" href="mailto:nikitagupta1709@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 <br>
 </p>
