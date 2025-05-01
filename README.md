@@ -8,7 +8,7 @@
 Full-stack developer with 2+ years of experience, here are some info about me <br/>
 - 👀 I’m interested in Developement. I know JavaScript, HTML, CSS, React JS, Redux, Node JS, Express, Mongo DB, Cyber Security, Cloud Computing, Networking, Android App Development, SQ, Generative AI <br/>
 - 🤔 My interest lies in Web Development. <br/>
-- 🌐 You can see my personal website through https://nikitagupta.netlify.app/ <br/>
+- 🌐 You can see my personal website through [https://nikitagupta.netlify.app](https://nikita-gupta-portfolio.netlify.app/)/ <br/>
 
 #### 📫 How to reach me
 - Email: [`Click To Mail!`](mailto:nikitagupta1709@gmail.com) or copy **`nikitagupta1709@gmail.com`**
