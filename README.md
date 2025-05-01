@@ -2,9 +2,9 @@
 <h2> Hello There <img src="https://assets-v2.lottiefiles.com/a/f75ac2f2-116a-11ee-aa38-a35154041321/UTSEH078Aw.gif" width="30">, <br/> I'm Nikita Gupta, Welcome to my Github profile!</h2>
 </div>
 <br/>
-<!-- <img align="center" width="500px" margin-bottom="20px" src="https://lottiefiles.com/free-animation/girl-on-computer-with-idea-vKx1wtZe5l" />
+<img align="center" width="500px" margin-bottom="20px" src="https://drive.google.com/file/d/1qirFMk-u4GBUluAnbwSt6KxzTq_TeNIK/view?usp=sharing" />
 <br/>
-<br/> -->
+<br/>
 Full-stack developer with 2+ years of experience, here are some info about me <br/>
 - 👀 I’m interested in Developement. I know JavaScript, HTML, CSS, React JS, Redux, Node JS, Express, Mongo DB, Cyber Security, Cloud Computing, Networking, Android App Development, SQ, Generative AI <br/>
 - 🤔 My interest lies in Web Development. <br/>
